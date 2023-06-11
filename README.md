@@ -8,6 +8,7 @@ também usado no primeiro capítulo da segunda edição do
 [livro](https://martinfowler.com/books/refactoring.html)
 do Martin Fowler, que é o livro clássico sobre o tema.
 
+
 Para tirar proveito do roteiro é **importante não apenas seguir os passos mecanicamente, 
 mas também analisar os benefícios alcançados com cada refactoring**. Ou seja, pense 
 sempre nos motivos que tornam o código refatorado melhor do que o código anterior.
